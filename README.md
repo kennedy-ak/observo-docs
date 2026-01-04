@@ -4,7 +4,7 @@ Modern, self-hosted centralized logging and monitoring platform for Django appli
 
 🔗 **Platform:** https://observo.digitalrepublic.space
 📦 **Package:** `pip install observo-handler`
-📚 **Documentation:** https://github.com/yourusername/observo-docs
+📚 **Documentation:** https://github.com/kennedy-ak/observo-docs
 
 ## Features
 
